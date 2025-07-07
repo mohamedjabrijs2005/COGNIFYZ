@@ -1,0 +1,17 @@
+Number Guessing Game
+===================
+
+Description:
+------------
+This is a basic text-based number guessing game written in Python. The player must guess a randomly chosen number between 1 and 10. The game uses conditional statements to provide feedback and manage the game flow. It validates user input and tracks the number of attempts until the correct guess is made.
+
+How it works:
+-------------
+- The game selects a random number between 1 and 10.
+- The player is prompted to enter a guess.
+- The game checks if the input is valid and within range.
+- Feedback is given: "Too low", "Too high", or "Out of range".
+- The game continues until the player guesses the correct number.
+- The total number of attempts is displayed at the end.
+
+This project demonstrates the use of conditional statements, loops, and input validation in Python.
