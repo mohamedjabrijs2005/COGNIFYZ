@@ -1,0 +1,9 @@
+This Python program is a simple temperature converter.
+
+It allows the user to input a temperature value and select the conversion direction between Celsius and Fahrenheit.
+The program then displays the converted temperature.
+
+Features:
+- Converts Celsius to Fahrenheit and vice versa.
+- User-friendly input prompts.
+- Input validation for conversion direction.
